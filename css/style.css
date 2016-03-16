@@ -25,3 +25,13 @@
   margin-bottom: 60px;
   margin-top: 0px;
 }
+.post {
+  border: 3px;
+  border-style: ridge;
+  border-color: skyblue;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 25px;
+  padding: 7px;
+  background-color: rgba(165,198,209,0.5);
+}
