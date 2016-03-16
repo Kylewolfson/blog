@@ -1,0 +1,27 @@
+.intro {
+  width: 75%;
+}
+
+.important {
+  color: gold;
+}
+
+.main {
+  font-family: fantasy;
+}
+
+.outro {
+  width: 90%;
+  color: blue;
+}
+
+.about {
+  font-style: italic;
+}
+
+.date {
+  font-size: 10px;
+  font-weight: lighter;
+  margin-bottom: 60px;
+  margin-top: 0px;
+}
